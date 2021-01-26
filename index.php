@@ -1,5 +1,7 @@
 <?php
 header('Location: https://daimler-tss.com');
+
+
 ?>
 <!DOCTYPE html>
 <html>
