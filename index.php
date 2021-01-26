@@ -1,5 +1,5 @@
 <?php
-header('Location: https://daimler-tss.com');
+header('Location: https://www.daimler-tss.com');
 
 
 ?>
