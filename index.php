@@ -1,5 +1,5 @@
 <?php
-header('Location: https://www.daimler-tss.com');
+#header('Location: https://www.daimler-tss.com');
 
 
 ?>
@@ -7,9 +7,10 @@ header('Location: https://www.daimler-tss.com');
 <html>
 	<head>
         <meta charset="utf-8" />
-		<title>Index</title>
+		<title>Subdomain Takeover</title>
 	</head>
 	<body>
-    Domain taken over by Daimler TSS		
+    <img src="image.jpg" />
+    <!--Domain taken over by Daimler TSS-->
 	</body>
 </html>
